@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+
+<body style="padding-left: 5em;">
+  <form action="http://localhost:5000/" method="post" style=>
+    <p>Search:</p>
+    <p><input type="text" name="search" placeholder="Search" /></p>
+    <p><input type="submit" value="submit" name="form_search" /></p>
+  </form>
+
+  <div class="row">
+    <div class="col-sm-6">
+      <div class="card" style="width: 50rem;">
+        {% for each in data %}
+          <div class="card border-dark mb-3" style="width: 50rem;">
+            <div class="card-header">
+
+                  <button class="btn" type="button" data-toggle="collapse" data-target="#collapse{{loop.index}}" aria-expanded="false" aria-controls="collapse{{loop.index}}">
+                    <h4 class="mb-0">
+                      {{each["sinhala_name"]}}
+                    </h4>
+                  </button>
+
+            </div>
+            <div id="collapse{{loop.index}}" class="collapse show" aria-labelledby="headingOne">
+              <div class="card-body">
+                <p>{{each["bio"]}}</p>
+
+                <h5 class="mb-2">
+                    කලා දිවිය
+                </h5>
+                <p>{{each["career"]}}</p>
+
+                <h5 class="mb-2">
+                    චිත්‍රපටි
+                </h5>
+                <table class="table">
+                    <thead class="thead-light">
+                      <tr>
+                        <th scope="col">වර්ෂය</th>
+                        <th scope="col">චිත්‍රපටිය</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {% for film in each["films"] %}
+                        <tr>
+                          <td>{{film["year"]}}</td>
+                          <td>{{film["name"]}}</td>
+                        </tr>
+                      {% endfor %}
+                    </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
+
+
+
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>
