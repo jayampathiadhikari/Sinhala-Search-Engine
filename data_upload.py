@@ -5,9 +5,9 @@ es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
 
 
 def data_upload():
-    with open('si_actors_sinhala_name1.json', encoding="utf8") as f:
+    with open('./corpus/actor_corpus.json', encoding="utf8") as f:
         data = json.loads(f.read())
-    helpers.bulk(es, data, index='index-test-actors')
+    helpers.bulk(es, data, index='index-actors')
 
 
 if __name__ == "__main__":
