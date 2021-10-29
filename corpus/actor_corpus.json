@@ -44,7 +44,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "31/10/1953"
+        "dob": "31/10/1953",
+        "name": "ශ්‍රීලාල් අබේකෝන්",
+        "vital_status": "මියගිය",
+        "active_years": "1978–2020"
     },
     {
         "href": "/wiki/Damitha_Abeyratne",
@@ -204,7 +207,10 @@
             }
         ],
         "gender": "ගැහැණු",
-        "dob": "14/09/1975"
+        "dob": "14/09/1975",
+        "name": "දමිතා අබේරත්න",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1987-වර්තමානය"
     },
     {
         "href": "/wiki/Amila_Abeysekara",
@@ -233,7 +239,10 @@
             }
         ],
         "gender": "පිරිමි",
-        "dob": "07/03/1983"
+        "dob": "07/03/1983",
+        "name": "අමිල අබේසේකර",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1998-වර්තමානය"
     },
     {
         "href": "/wiki/Tissa_Abeysekara",
@@ -352,7 +361,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "07/05/1939"
+        "dob": "07/05/1939",
+        "name": "තිස්ස අබේසේකර",
+        "vital_status": "මියගිය",
+        "active_years": ""
     },
     {
         "href": "/wiki/Dilani_Abeywardana",
@@ -535,7 +547,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "29/10/1970"
+        "dob": "29/10/1970",
+        "name": "ඩිලානි අබේවර්ධන",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1986-2009"
     },
     {
         "href": "/wiki/Joe_Abeywickrama",
@@ -1344,7 +1359,10 @@
             }
         ],
         "gender": "පිරිමි",
-        "dob": "22/06/1927"
+        "dob": "22/06/1927",
+        "name": "ජෝ අබේවික්‍රම",
+        "vital_status": "මියගිය",
+        "active_years": "1955-2011"
     },
     {
         "href": "/wiki/Kamal_Addararachchi",
@@ -1499,7 +1517,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "05/02/1962"
+        "dob": "05/02/1962",
+        "name": "කමල් අද්දරආරච්චි",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1977-වර්තමානය"
     },
     {
         "href": "/wiki/Daya_Alwis",
@@ -1686,7 +1707,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "07/11/1942"
+        "dob": "07/11/1942",
+        "name": "දයා අල්විස්",
+        "vital_status": "මියගිය",
+        "active_years": "1976–2014"
     },
     {
         "href": "/wiki/Sriyani_Amarasena",
@@ -2109,7 +2133,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "14/06/1944"
+        "dob": "14/06/1944",
+        "name": "ශ්‍රියානි අමරසේන",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1966-වර්තමානය"
     },
     {
         "href": "/wiki/Sumana_Amarasinghe",
@@ -2491,7 +2518,10 @@
             }
         ],
         "gender": "ගැහැණු",
-        "dob": "21/02/1948"
+        "dob": "21/02/1948",
+        "name": "සුමනා අමරසිංහ",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1975-වර්තමානය"
     },
     {
         "href": "/wiki/Shyama_Ananda",
@@ -2566,7 +2596,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "24/12/1959"
+        "dob": "24/12/1959",
+        "name": "ශ්‍යාමා ආනන්ද",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1963–1993"
     },
     {
         "href": "/wiki/Madhavee_Wathsala_Anthony",
@@ -2581,7 +2614,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "06/08/1988"
+        "dob": "06/08/1988",
+        "name": "මාධවී වත්සලා ඇන්තනී",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "වසර ගණනාවක් ක්රියාකාරී"
     },
     {
         "href": "/wiki/Jackson_Anthony",
@@ -2965,7 +3001,10 @@
             }
         ],
         "gender": "පිරිමි",
-        "dob": "08/07/1958"
+        "dob": "08/07/1958",
+        "name": "ජැක්සන් ඇන්තනි",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1987-වර්තමානය"
     },
     {
         "href": "/wiki/Jayasekara_Aponso",
@@ -3135,7 +3174,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "23/02/1951"
+        "dob": "23/02/1951",
+        "name": "ජයසේකර අපොන්සු",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1973 - වර්තමානය"
     },
     {
         "href": "/wiki/Manike_Attanayake",
@@ -3270,7 +3312,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "23/08/1947"
+        "dob": "23/08/1947",
+        "name": "මැණිකේ අත්තනායක",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1976-වර්තමානය"
     },
     {
         "href": "/wiki/M._V._Balan",
@@ -3561,7 +3606,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "03/03/1941"
+        "dob": "03/03/1941",
+        "name": "එම්.වී.බාලන්",
+        "vital_status": "මියගිය",
+        "active_years": "1958–2005"
     },
     {
         "href": "/wiki/Jagath_Benaragama",
@@ -3624,7 +3672,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "02/06/1972"
+        "dob": "02/06/1972",
+        "name": "ජගත් බෙනරගම",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": ""
     },
     {
         "href": "/wiki/Sanoja_Bibile",
@@ -3803,7 +3854,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "27/12/1961"
+        "dob": "27/12/1961",
+        "name": "සනෝජා බිබිලේ",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1988-වර්තමානය"
     },
     {
         "href": "/wiki/Mabel_Blythe",
@@ -3930,7 +3984,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "23/03/1930"
+        "dob": "23/03/1930",
+        "name": "මේබල් බ්ලයිත්",
+        "vital_status": "මියගිය",
+        "active_years": "1947-1983"
     },
     {
         "href": "/wiki/Lucien_Bulathsinhala",
@@ -4041,7 +4098,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "30/05/1943"
+        "dob": "30/05/1943",
+        "name": "ලූෂන් බුලත්සිංහල",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1967-වර්තමානය"
     },
     {
         "href": "/wiki/Jagath_Chamila",
@@ -4104,7 +4164,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "06/06/1972"
+        "dob": "06/06/1972",
+        "name": "ජගත් චමිල",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1992-වර්තමානය"
     },
     {
         "href": "/wiki/Susantha_Chandramali",
@@ -4163,7 +4226,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "21/02/1964"
+        "dob": "21/02/1964",
+        "name": "සුසන්තා චන්ද්‍රමාලි",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1986-වර්තමානය"
     },
     {
         "href": "/wiki/Sarath_Chandrasiri",
@@ -4300,7 +4366,10 @@
             }
         ],
         "gender": "පිරිමි",
-        "dob": ""
+        "dob": "",
+        "name": "සරත් චන්ද්‍රසිරි",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1990-වර්තමානය"
     },
     {
         "href": "/wiki/Pubudu_Chathuranga",
@@ -4402,7 +4471,10 @@
             }
         ],
         "gender": "පිරිමි",
-        "dob": "12/11/1982"
+        "dob": "12/11/1982",
+        "name": "පුබුදු චතුරංග",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "2002 - වර්තමානය"
     },
     {
         "href": "/wiki/Vasanthi_Chathurani",
@@ -4653,7 +4725,10 @@
             }
         ],
         "gender": "ගැහැණු",
-        "dob": "18/10/1959"
+        "dob": "18/10/1959",
+        "name": "වසන්ති චතුරානි",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1978-වර්තමානය"
     },
     {
         "href": "/wiki/Tennyson_Cooray",
@@ -4792,7 +4867,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "30/04/1952"
+        "dob": "30/04/1952",
+        "name": "ටෙනිසන් කුරේ",
+        "vital_status": "මියගිය",
+        "active_years": "1981–2020"
     },
     {
         "href": "/wiki/Wimal_Kumara_de_Costa",
@@ -5295,7 +5373,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "04/05/1948"
+        "dob": "04/05/1948",
+        "name": "විමල් කුමාර ද කොස්තා",
+        "vital_status": "මියගිය",
+        "active_years": "1969-2015"
     },
     {
         "href": "/wiki/Ruby_de_Mel",
@@ -5618,7 +5699,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "04/12/1917"
+        "dob": "04/12/1917",
+        "name": "රූබි ද මෙල්",
+        "vital_status": "මියගිය",
+        "active_years": "1955–2003"
     },
     {
         "href": "/wiki/Leena_de_Silva",
@@ -5797,7 +5881,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "30/10/1936"
+        "dob": "30/10/1936",
+        "name": "ලීනා ද සිල්වා",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1954–2001"
     },
     {
         "href": "/wiki/Somasiri_Dehipitiya",
@@ -6036,7 +6123,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "29/01/1933"
+        "dob": "29/01/1933",
+        "name": "සෝමසිරි දෙහිපිටිය",
+        "vital_status": "මියගිය",
+        "active_years": "1967–1982"
     },
     {
         "href": "/wiki/Lionel_Deraniyagala",
@@ -6323,7 +6413,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "24/08/1940"
+        "dob": "24/08/1940",
+        "name": "ලයනල් දැරණියගල",
+        "vital_status": "මියගිය",
+        "active_years": "1960–1994"
     },
     {
         "href": "/wiki/Kamal_Deshapriya",
@@ -6354,7 +6447,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": ""
+        "dob": "",
+        "name": "කමල් දේශප්‍රිය",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": ""
     },
     {
         "href": "/wiki/Rukmani_Devi",
@@ -6749,7 +6845,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "15/01/1923"
+        "dob": "15/01/1923",
+        "name": "රුක්මණී දේවි",
+        "vital_status": "මියගිය",
+        "active_years": "1936–1978"
     },
     {
         "href": "/wiki/David_Dharmakeerthi",
@@ -6992,7 +7091,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "01/09/1913"
+        "dob": "01/09/1913",
+        "name": "ඩේවිඩ් ධර්මකීර්ති",
+        "vital_status": "මියගිය",
+        "active_years": "1953–1987"
     },
     {
         "href": "/wiki/Darshan_Dharmaraj",
@@ -7059,7 +7161,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": ""
+        "dob": "",
+        "name": "දර්ශන් ධර්මරාජ්",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "2008-වර්තමානය"
     },
     {
         "href": "/wiki/Annesley_Dias",
@@ -7118,7 +7223,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "31/01/1927"
+        "dob": "31/01/1927",
+        "name": "ඇනස්ලි ඩේස්",
+        "vital_status": "මියගිය",
+        "active_years": "1946–2000"
     },
     {
         "href": "/wiki/Ashan_Dias",
@@ -7165,7 +7273,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "31/05/1981"
+        "dob": "31/05/1981",
+        "name": "අශාන් දවස්",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "2008-වර්තමානය"
     },
     {
         "href": "/wiki/Dharmapriya_Dias",
@@ -7269,7 +7380,10 @@
             }
         ],
         "gender": "පිරිමි",
-        "dob": ""
+        "dob": "",
+        "name": "ධර්මප්‍රිය ඩයස්",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1975-වර්තමානය"
     },
     {
         "href": "/wiki/Gayathri_Dias",
@@ -7336,7 +7450,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": ""
+        "dob": "",
+        "name": "ගයත්‍රි ඩයස්",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1994-වර්තමානය"
     },
     {
         "href": "/wiki/Michelle_Dilhara",
@@ -7387,7 +7504,10 @@
             }
         ],
         "gender": "ගැහැණු",
-        "dob": "01/05/1996"
+        "dob": "01/05/1996",
+        "name": "මිෂෙල් දිල්හාරා",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "2016-වර්තමානය"
     },
     {
         "href": "/wiki/Sonia_Disa",
@@ -7970,7 +8090,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "07/06/1944"
+        "dob": "07/06/1944",
+        "name": "සෝනියා දිසා",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1962–2009"
     },
     {
         "href": "/wiki/Saranga_Disasekara",
@@ -8041,7 +8164,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "31/01/1983"
+        "dob": "31/01/1983",
+        "name": "සාරංග දිසාසේකර",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "2003 - වර්තමානය"
     },
     {
         "href": "/wiki/Wasantha_Dukgannarala",
@@ -8088,7 +8214,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": ""
+        "dob": "",
+        "name": "වසන්ත දුක්ගන්නාරාල",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1995-වර්තමානය"
     },
     {
         "href": "/wiki/Dilhani_Ekanayake",
@@ -8546,7 +8675,10 @@
             }
         ],
         "gender": "ගැහැණු",
-        "dob": "20/01/1973"
+        "dob": "20/01/1973",
+        "name": "දිල්හානි ඒකනායක",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1990 - වර්තමානය"
     },
     {
         "href": "/wiki/Alfred_Edirimanne",
@@ -8633,7 +8765,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "25/03/1929"
+        "dob": "25/03/1929",
+        "name": "ඇල්ෆ්‍රඩ් එදිරිමාන්න",
+        "vital_status": "මියගිය",
+        "active_years": "1952–1990"
     },
     {
         "href": "/wiki/Lilian_Edirisinghe",
@@ -9260,7 +9395,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "19/05/1922"
+        "dob": "19/05/1922",
+        "name": "ලිලියන් එදිරිසිංහ",
+        "vital_status": "මියගිය",
+        "active_years": "1940–1991"
     },
     {
         "href": "/wiki/Mercy_Edirisinghe",
@@ -9327,7 +9465,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "18/12/1946"
+        "dob": "18/12/1946",
+        "name": "මර්සි එදිරිසිංහ",
+        "vital_status": "මියගිය",
+        "active_years": "1964–2012"
     },
     {
         "href": "/wiki/Sathischandra_Edirisinghe",
@@ -9490,7 +9631,10 @@
             }
         ],
         "gender": "පිරිමි",
-        "dob": "11/02/1941"
+        "dob": "11/02/1941",
+        "name": "සතිස්චන්ද්‍ර එදිරිසිංහ",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1961-වර්තමානය"
     },
     {
         "href": "/wiki/Alexander_Fernando",
@@ -9977,7 +10121,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "25/08/1940"
+        "dob": "25/08/1940",
+        "name": "ඇලෙක්සැන්ඩර් ප්‍රනාන්දු",
+        "vital_status": "මියගිය",
+        "active_years": "1962–2011"
     },
     {
         "href": "/wiki/Baptist_Fernando",
@@ -10164,7 +10311,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "09/05/1933"
+        "dob": "09/05/1933",
+        "name": "බැප්ටිස්ට් ප්‍රනාන්දු",
+        "vital_status": "මියගිය",
+        "active_years": "1955–2001"
     },
     {
         "href": "/wiki/Bertram_Fernando",
@@ -10231,7 +10381,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "10/04/1921"
+        "dob": "10/04/1921",
+        "name": "බර්ට්‍රම් ප්‍රනාන්දු",
+        "vital_status": "මියගිය",
+        "active_years": "1940–1971"
     },
     {
         "href": "/wiki/Gihan_Fernando",
@@ -10286,7 +10439,10 @@
             }
         ],
         "gender": "පිරිමි",
-        "dob": "30/08/1967"
+        "dob": "30/08/1967",
+        "name": "ගිහාන් ප්‍රනාන්දු",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1990-වර්තමානය"
     },
     {
         "href": "/wiki/Hugo_Fernando",
@@ -10617,7 +10773,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "14/07/1912"
+        "dob": "14/07/1912",
+        "name": "හියුගෝ ප්‍රනාන්දු",
+        "vital_status": "මියගිය",
+        "active_years": "1947-1996"
     },
     {
         "href": "/wiki/Kaushalya_Fernando",
@@ -10692,7 +10851,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": ""
+        "dob": "",
+        "name": "කෞෂල්‍යා ප්‍රනාන්දු",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1979-වර්තමානය"
     },
     {
         "href": "/wiki/Nita_Fernando",
@@ -10927,7 +11089,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "05/09/1947"
+        "dob": "05/09/1947",
+        "name": "නීටා ප්‍රනාන්දු",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1965-1975 1995-වර්තමානය"
     },
     {
         "href": "/wiki/Robin_Fernando",
@@ -11314,7 +11479,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "15/06/1937"
+        "dob": "15/06/1937",
+        "name": "රොබින් ප්‍රනාන්දු",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1964-වර්තමානය"
     },
     {
         "href": "/wiki/Damayanthi_Fonseka",
@@ -11421,7 +11589,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "28/08/1960"
+        "dob": "28/08/1960",
+        "name": "දමයන්ති ෆොන්සේකා",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1979-වර්තමානය"
     },
     {
         "href": "/wiki/Gamini_Fonseka",
@@ -11836,7 +12007,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "21/03/1936"
+        "dob": "21/03/1936",
+        "name": "ගාමිණී ෆොන්සේකා",
+        "vital_status": "",
+        "active_years": ""
     },
     {
         "href": "/wiki/Malini_Fonseka",
@@ -12691,7 +12865,10 @@
             }
         ],
         "gender": "ගැහැණු",
-        "dob": "30/04/1949"
+        "dob": "30/04/1949",
+        "name": "මාලිනී ෆොන්සේකා",
+        "vital_status": "",
+        "active_years": ""
     },
     {
         "href": "/wiki/Samanalee_Fonseka",
@@ -12742,7 +12919,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "23/11/1981"
+        "dob": "23/11/1981",
+        "name": "සමනලී ෆොන්සේකා",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1998-වර්තමානය"
     },
     {
         "href": "/wiki/Martin_Gunadasa",
@@ -12825,7 +13005,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "12/02/1930"
+        "dob": "12/02/1930",
+        "name": "මාර්ටින් ගුණදාස",
+        "vital_status": "මියගිය",
+        "active_years": "1965–2009"
     },
     {
         "href": "/wiki/Berty_Gunathilake",
@@ -12952,7 +13135,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "02/08/1924"
+        "dob": "02/08/1924",
+        "name": "බර්ටි ගුණතිලක",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1947 – 2003"
     },
     {
         "href": "/wiki/Trilicia_Gunawardena",
@@ -13023,7 +13209,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "14/10/1934"
+        "dob": "14/10/1934",
+        "name": "ට්‍රිලීෂියා ගුණවර්ධන",
+        "vital_status": "මියගිය",
+        "active_years": "1939–1999"
     },
     {
         "href": "/wiki/Nadeeka_Gunasekara",
@@ -13274,7 +13463,10 @@
             }
         ],
         "gender": "ගැහැණු",
-        "dob": "13/05/1958"
+        "dob": "13/05/1958",
+        "name": "නදීකා ගුණසේකර",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1980-වර්තමානය"
     },
     {
         "href": "/wiki/Nimmi_Harasgama",
@@ -13321,7 +13513,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": ""
+        "dob": "",
+        "name": "නිම්මි හරස්ගම",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1997-වර්තමානය"
     },
     {
         "href": "/wiki/Punya_Heendeniya",
@@ -13376,7 +13571,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "31/05/1938"
+        "dob": "31/05/1938",
+        "name": "හීන්දෙණිය ඇති",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1955-1983"
     },
     {
         "href": "/wiki/Gamini_Hettiarachchi",
@@ -13427,7 +13625,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "24/07/1953"
+        "dob": "24/07/1953",
+        "name": "ගාමිණී හෙට්ටිආරච්චි",
+        "vital_status": "මියගිය",
+        "active_years": "1974–2018"
     },
     {
         "href": "/wiki/Rajitha_Hiran",
@@ -13590,7 +13791,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "11/05/1981"
+        "dob": "11/05/1981",
+        "name": "රාජිත හිරාන්",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1999-වර්තමානය"
     },
     {
         "href": "/wiki/Semini_Iddamalgoda",
@@ -13702,7 +13906,10 @@
             }
         ],
         "gender": "ගැහැණු",
-        "dob": "19/06/1973"
+        "dob": "19/06/1973",
+        "name": "සේමිණී ඉද්දමල්ගොඩ",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1994-වර්තමානය"
     },
     {
         "href": "/wiki/Asela_Jayakody",
@@ -13753,7 +13960,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "20/04/1973"
+        "dob": "20/04/1973",
+        "name": "අසේල ජයකොඩි",
+        "vital_status": "මියගිය",
+        "active_years": "1998–2011"
     },
     {
         "href": "/wiki/Geetha_Kanthi_Jayakody",
@@ -13842,7 +14052,10 @@
             }
         ],
         "gender": "ගැහැණු",
-        "dob": "28/11/1958"
+        "dob": "28/11/1958",
+        "name": "ගීතා ජයකොඩි සමඟ",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1980-වර්තමානය"
     },
     {
         "href": "/wiki/Rathna_Lalani_Jayakody",
@@ -13897,7 +14110,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "08/01/1964"
+        "dob": "08/01/1964",
+        "name": "රත්න ලාලනී ජයකොඩි",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1986-වර්තමානය"
     },
     {
         "href": "/wiki/Veena_Jayakody",
@@ -14210,7 +14426,10 @@
             }
         ],
         "gender": "ගැහැණු",
-        "dob": "27/11/1952"
+        "dob": "27/11/1952",
+        "name": "වීනා ජයකොඩි",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1968-වර්තමානය"
     },
     {
         "href": "/wiki/Florida_Jayalath",
@@ -14293,7 +14512,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": ""
+        "dob": "",
+        "name": "ෆ්ලොරිඩා ජයලත්",
+        "vital_status": "මියගිය",
+        "active_years": "1951–1966"
     },
     {
         "href": "/wiki/B._A._W._Jayamanne",
@@ -14392,7 +14614,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "02/05/1908"
+        "dob": "02/05/1908",
+        "name": "බී.ඒ.ඩබ්ලිව්.ජයමාන්න",
+        "vital_status": "මියගිය",
+        "active_years": ""
     },
     {
         "href": "/wiki/Eddie_Jayamanne",
@@ -14691,7 +14916,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "15/02/1915"
+        "dob": "15/02/1915",
+        "name": "එඩී ජයමාන්න",
+        "vital_status": "මියගිය",
+        "active_years": "1947-1983"
     },
     {
         "href": "/wiki/Prem_Jayanth",
@@ -14790,7 +15018,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": ""
+        "dob": "",
+        "name": "ප්‍රේම් ජයන්ත්",
+        "vital_status": "මියගිය",
+        "active_years": "1942-1984"
     },
     {
         "href": "/wiki/Henry_Jayasena",
@@ -14925,7 +15156,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "06/07/1931"
+        "dob": "06/07/1931",
+        "name": "හෙන්රි ජයසේන",
+        "vital_status": "මියගිය",
+        "active_years": "1958–1999"
     },
     {
         "href": "/wiki/W._Jayasiri",
@@ -15120,7 +15354,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "01/05/1947"
+        "dob": "01/05/1947",
+        "name": "ඩබ්ලිව් ජයසිරි",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1966-වර්තමානය"
     },
     {
         "href": "/wiki/Mervyn_Jayathunga",
@@ -15805,7 +16042,10 @@
             }
         ],
         "gender": "පිරිමි",
-        "dob": "09/03/40"
+        "dob": "09/03/1940",
+        "name": "මර්වින් ජයතුංග",
+        "vital_status": "මියගිය",
+        "active_years": "1961–1993"
     },
     {
         "href": "/wiki/Dommie_Jayawardena",
@@ -16016,7 +16256,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "25/06/1927"
+        "dob": "25/06/1927",
+        "name": "ඩොමී ජයවර්ධන",
+        "vital_status": "මියගිය",
+        "active_years": "1953-1979"
     },
     {
         "href": "/wiki/Thesara_Jayawardane",
@@ -16071,7 +16314,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "22/04/1984"
+        "dob": "22/04/1984",
+        "name": "තෙසර ජයවර්ධන",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": ""
     },
     {
         "href": "/wiki/Sabby_Jey",
@@ -16102,7 +16348,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "17/11/1993"
+        "dob": "17/11/1993",
+        "name": "සබී ජේ",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "2015-වර්තමානය"
     },
     {
         "href": "/wiki/Eddie_Junior",
@@ -16365,7 +16614,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "12/03/1926"
+        "dob": "12/03/1926",
+        "name": "එඩී ජූනියර්",
+        "vital_status": "මියගිය",
+        "active_years": "1949–1982"
     },
     {
         "href": "/wiki/Amarasiri_Kalansuriya",
@@ -16512,7 +16764,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "20/09/1940"
+        "dob": "20/09/1940",
+        "name": "අමරසිරි කලංසූරිය",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1969-වර්තමානය"
     },
     {
         "href": "/wiki/Arjuna_Kamalanath",
@@ -16703,7 +16958,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "10/09/1975"
+        "dob": "10/09/1975",
+        "name": "අර්ජුන කමලනාත්",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1998-වර්තමානය"
     },
     {
         "href": "/wiki/Gemini_Kantha",
@@ -16746,7 +17004,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": ""
+        "dob": "",
+        "name": "මිථුන කාන්තා",
+        "vital_status": "මියගිය",
+        "active_years": "1947–1954"
     },
     {
         "href": "/wiki/Anula_Karunathilaka",
@@ -16861,7 +17122,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "22/01/1946"
+        "dob": "22/01/1946",
+        "name": "අනුලා කරුණාතිලක",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1960–2010"
     },
     {
         "href": "/wiki/Giriraj_Kaushalya",
@@ -17019,7 +17283,10 @@
             }
         ],
         "gender": "පිරිමි",
-        "dob": "13/11/1964"
+        "dob": "13/11/1964",
+        "name": "ගිරිරාජ් කෞෂල්‍ය",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1999-වර්තමානය"
     },
     {
         "href": "/wiki/Rathnawali_Kekunawela",
@@ -17190,7 +17457,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "21/01/1931"
+        "dob": "21/01/1931",
+        "name": "රත්නාවලී කැකුණවෙල",
+        "vital_status": "මියගිය",
+        "active_years": "1951–2017"
     },
     {
         "href": "/wiki/Rex_Kodippili",
@@ -17445,7 +17715,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "06/10/1938"
+        "dob": "06/10/1938",
+        "name": "රෙක්ස් කොඩිප්පිලි",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1968-වර්තමානය"
     },
     {
         "href": "/wiki/Chandrasiri_Kodithuwakku",
@@ -17500,7 +17773,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "27/10/1949"
+        "dob": "27/10/1949",
+        "name": "චන්ද්‍රසිරි කොඩිතුවක්කු",
+        "vital_status": "මියගිය",
+        "active_years": "1969–2016"
     },
     {
         "href": "/wiki/Sarath_Kothalawala",
@@ -17627,7 +17903,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": ""
+        "dob": "",
+        "name": "සරත් කොතලාවල",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1991-වර්තමානය"
     },
     {
         "href": "/wiki/Lal_Kularatne",
@@ -17693,7 +17972,10 @@
             }
         ],
         "gender": "පිරිමි",
-        "dob": "05/05/1949"
+        "dob": "05/05/1949",
+        "name": "ලාල් කුලරත්න",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1991-වර්තමානය"
     },
     {
         "href": "/wiki/Jeewan_Kumaranatunga",
@@ -18072,7 +18354,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "07/11/1958"
+        "dob": "07/11/1958",
+        "name": "ජීවන් කුමාරණතුංග",
+        "vital_status": "",
+        "active_years": ""
     },
     {
         "href": "/wiki/Vijaya_Kumaranatunga",
@@ -18186,7 +18471,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "09/10/1945"
+        "dob": "09/10/1945",
+        "name": "විජය කුමාරණතුංග",
+        "vital_status": "මියගිය",
+        "active_years": "1969–1988"
     },
     {
         "href": "/wiki/Geetha_Kumarasinghe",
@@ -18529,7 +18817,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "05/07/1955"
+        "dob": "05/07/1955",
+        "name": "ගීතා කුමාරසිංහ",
+        "vital_status": "",
+        "active_years": ""
     },
     {
         "href": "/wiki/Sandhya_Kumari",
@@ -18700,7 +18991,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "06/01/1945"
+        "dob": "06/01/1945",
+        "name": "සන්ධ්‍යා කුමාරි",
+        "vital_status": "මියගිය",
+        "active_years": "1963-1991"
     },
     {
         "href": "/wiki/Seetha_Kumari",
@@ -18995,7 +19289,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "09/05/1940"
+        "dob": "09/05/1940",
+        "name": "සීතා කුමාරි",
+        "vital_status": "මියගිය",
+        "active_years": "1960–2013"
     },
     {
         "href": "/wiki/Janaka_Kumbukage",
@@ -19067,7 +19364,10 @@
             }
         ],
         "gender": "පිරිමි",
-        "dob": ""
+        "dob": "",
+        "name": "ජානක සටහන",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1984-වර්තමානය"
     },
     {
         "href": "/wiki/Susila_Kuragama",
@@ -19210,7 +19510,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "14/10/1943"
+        "dob": "14/10/1943",
+        "name": "සුසිලා කූරගම",
+        "vital_status": "මියගිය",
+        "active_years": "1950–2016"
     },
     {
         "href": "/wiki/Jeevarani_Kurukulasuriya",
@@ -19341,7 +19644,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "02/12/1942"
+        "dob": "02/12/1942",
+        "name": "ජීවරාණි කුරුකුලසූරිය",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1959–1968"
     },
     {
         "href": "/wiki/Menik_Kurukulasuriya",
@@ -19504,7 +19810,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "22/10/1957"
+        "dob": "22/10/1957",
+        "name": "මැණික් කුරුකුලසූරිය",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1973-වර්තමානය"
     },
     {
         "href": "/wiki/Thusitha_Laknath",
@@ -19539,7 +19848,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "07/09/1983"
+        "dob": "07/09/1983",
+        "name": "තුසිත ලක්නාත්",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "2000-වර්තමානය"
     },
     {
         "href": "/wiki/Ronnie_Leitch",
@@ -19710,7 +20022,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "19/10/1953"
+        "dob": "19/10/1953",
+        "name": "රොනී ලීච්",
+        "vital_status": "මියගිය",
+        "active_years": "1972–2018"
     },
     {
         "href": "/wiki/Shanthi_Lekha",
@@ -20309,7 +20624,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "01/07/1929"
+        "dob": "01/07/1929",
+        "name": "ශාන්ති ලේඛා",
+        "vital_status": "මියගිය",
+        "active_years": ""
     },
     {
         "href": "/wiki/Hemasiri_Liyanage",
@@ -20466,7 +20784,10 @@
             }
         ],
         "gender": "පිරිමි",
-        "dob": "25/12/1942"
+        "dob": "25/12/1942",
+        "name": "හේමසිරි ලියනගේ",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1967-වර්තමානය"
     },
     {
         "href": "/wiki/Saumya_Liyanage",
@@ -20575,7 +20896,10 @@
             }
         ],
         "gender": "පිරිමි",
-        "dob": ""
+        "dob": "",
+        "name": "සෞම්‍ය ලියනගේ",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1992-වර්තමානය"
     },
     {
         "href": "/wiki/Isuru_Lokuhettiarachchi",
@@ -20602,7 +20926,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "23/03/1983"
+        "dob": "23/03/1983",
+        "name": "ඉසුරු ලොකුහෙට්ටිආරච්චි",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "2008-වර්තමානය"
     },
     {
         "href": "/wiki/Srinath_Maddumage",
@@ -20704,7 +21031,10 @@
             }
         ],
         "gender": "පිරිමි",
-        "dob": "16/10/1963"
+        "dob": "16/10/1963",
+        "name": "ශ්‍රීනාත් මද්දුමගේ",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1995-වර්තමානය"
     },
     {
         "href": "/wiki/Swarna_Mallawarachchi",
@@ -21023,7 +21353,10 @@
             }
         ],
         "gender": "ගැහැණු",
-        "dob": "01/08/1948"
+        "dob": "01/08/1948",
+        "name": "ස්වර්ණා මල්ලවාරච්චි",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1966-වර්තමානය"
     },
     {
         "href": "/wiki/Vijitha_Mallika",
@@ -21206,7 +21539,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "05/07/1943"
+        "dob": "05/07/1943",
+        "name": "විජිත මල්ලිකා",
+        "vital_status": "මියගිය",
+        "active_years": "1967–1980"
     },
     {
         "href": "/wiki/Suraj_Mapa",
@@ -21260,7 +21596,10 @@
             }
         ],
         "gender": "පිරිමි",
-        "dob": "02/01/1980"
+        "dob": "02/01/1980",
+        "name": "සුරාජ් මාපා",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "2002-වර්තමානය"
     },
     {
         "href": "/wiki/Sujani_Menaka",
@@ -21315,7 +21654,10 @@
         ],
         "awards": [],
         "gender": "ගැහැණු",
-        "dob": "17/05/1980"
+        "dob": "17/05/1980",
+        "name": "සුජානි මේනකා",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1987-වර්තමානය"
     },
     {
         "href": "/wiki/Cletus_Mendis",
@@ -21838,7 +22180,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "17/07/1949"
+        "dob": "17/07/1949",
+        "name": "ක්ලීටස් මෙන්ඩිස්",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1973 - වර්තමානය"
     },
     {
         "href": "/wiki/Kanchana_Mendis",
@@ -21948,7 +22293,10 @@
             }
         ],
         "gender": "ගැහැණු",
-        "dob": "24/06/1980"
+        "dob": "24/06/1980",
+        "name": "කාංචනා මෙන්ඩිස්",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "2000-වර්තමානය"
     },
     {
         "href": "/wiki/Lakshman_Mendis",
@@ -22023,7 +22371,10 @@
         ],
         "awards": [],
         "gender": "පිරිමි",
-        "dob": "19/05/1955"
+        "dob": "19/05/1955",
+        "name": "ලක්ෂ්මන් මෙන්ඩිස්",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1985-වර්තමානය"
     },
     {
         "href": "/wiki/Sriyantha_Mendis",
@@ -22263,6 +22614,9 @@
             }
         ],
         "gender": "පිරිමි",
-        "dob": "25/10/1957"
+        "dob": "25/10/1957",
+        "name": "ශ්‍රියන්ත මෙන්ඩිස්",
+        "vital_status": "ජීවතුන් අතර",
+        "active_years": "1979-වර්තමානය"
     }
 ]
