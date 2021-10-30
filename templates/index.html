@@ -55,6 +55,29 @@
                       {% endfor %}
                     </tbody>
                 </table>
+
+                <h5 class="mb-2">
+                    සම්මාන
+                </h5>
+                <table class="table">
+                    <thead class="thead-light">
+                      <tr>
+                        <th scope="col">වර්ෂය</th>
+                        <th scope="col">චිත්‍රපටිය</th>
+                        <th scope="col">සම්මානය</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {% for award in each["awards"] %}
+                        <tr>
+                          <td>{{award["year"]}}</td>
+                          <td>{{award["film"]}}</td>
+                          <td>{{award["name"]}}</td>
+                        </tr>
+                      {% endfor %}
+                    </tbody>
+                </table>
+
               </div>
             </div>
           </div>
