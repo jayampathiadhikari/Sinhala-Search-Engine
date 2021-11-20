@@ -1,7 +1,6 @@
 import re
 
-
-# query types
+# supported query types
 
 # 1. Search acted movies by actor/actress - දමිතා අබේරත්න රංගනය කල නාට්ය
 # 2. Search bio by actor/actress name - දමිතා අබේරත්නගේ විස්තර
@@ -11,12 +10,19 @@ import re
 # 6. Search actresses by awards - හොඳම නිළිය සම්මානය ලබාගත් නිළියන්
 # 7. Search actors by awards - හොඳම නළුවා සම්මානය ලබාගත් නළුවන්
 # 8. Search actors by movies - සඳ මඩල චිත්රපටයේ නළුවන්
+
 # 9. Search by actors of decade - 90 දශකයේ නළුවන්
 # 10. Search by actress of decade - 90 දශකයේ නිළියන්
-# 11. Search by actress of decade - 90 දශකයේ නළුනිළියන්
+# 11. Search by actors/actress of decade - 90 දශකයේ නළුනිළියන්
+
+# 12. Search actors/actress by movies - සඳ මඩල චිත්රපටයේ නළුනිළියන්
 
 # todo: add Search actors/actresses by awards with year
 # todo: add gender neutral queries
+
+'''classifies the intent of the query
+   Identifies best intent using similar words and misspelled words to a certain extent'''
+
 
 def intent_classifier(query):
     # available fields
@@ -31,8 +37,7 @@ def intent_classifier(query):
     active_years = "active_years"
 
     selected_fields = []
-    # key words for each query
-    # words to remove - කල ලබාගත් ලැබූ ලැබු
+
     # 1. Search acted movies by actor/actress - දමිතා අබේරත්න රංගනය කල නාට්ය
     movies_by_actor = [["රංගනය"], ["නාට්ය", "නාට්\u200dය"]]
     # 2. Search bio by actor/actress name - දමිතා අබේරත්නගේ විස්තර
@@ -54,6 +59,8 @@ def intent_classifier(query):
                        actresses_by_movie, actresses_by_awards]
     intent_names = ["actor_bio", "actor_awards", "movies_by_actor", "actor_career", "actors_by_movie",
                     "actors_by_awards", "actresses_by_movie", "actresses_by_awards"]
+
+    # calculate intent scores
     score_list = []
     for index, classifier in enumerate(list_classifier):
         score = 0
@@ -91,7 +98,9 @@ def intent_classifier(query):
     return selected_intent, selected_fields
 
 
-# todo: lemmatizer implementation
+'''lemmatize single words'''
+
+
 def lemmatizer(word):
     if re.search(".*යේ$", word):
         return word.removesuffix('යේ')
@@ -103,8 +112,12 @@ def lemmatizer(word):
         return word
 
 
+'''Process queries'''
+
+
 def query_preprocessor(selected_intent, query):
-    drop_list = ["කල", "ලබාගත්", "ලැබූ", "ලැබු"]
+    # words to remove - කල ලබාගත් ලැබූ ලැබු
+    drop_list = ["කල", "ලබාගත්", "ලැබූ", "ලැබු", "චිත්රපටයේ"]
 
     intent_dic = {
         "actors_by_movie": "පිරිමි",
@@ -117,23 +130,19 @@ def query_preprocessor(selected_intent, query):
     remaining_words = []
 
     for word in query_splitted:
-        remaining_words.append(lemmatizer(word.strip()))
+        if word not in drop_list:
+            # lemmatize the word
+            remaining_words.append(lemmatizer(word.strip()))
 
+    # add gender to query
     if selected_intent in intent_dic.keys():
         remaining_words.append(intent_dic[selected_intent])
 
     return " ".join(remaining_words)
 
-
-# test
-
-# 10. Search by actress of decade - 90 දශකයේ නිළියන්
-# 11. Search by actress of decade - 90 දශකයේ නළුනිළියන්
-
-queries = ["දමිතා අබේරත්න රංගනය කල නාට්ය", "දමිතා අබේරත්නගේ විස්තර", "දමිතා අබේරත්නගේ වෘත්තීය දිවිය",
-           "දමිතා අබේරත්නගේ සම්මාන", "මීහරකා චිත්රපටයේ නිළියන්", "හොඳම නිළිය සම්මානය ලබාගත් නිළියන්",
-           "හොඳම නළුවා සම්මානය ලබාගත් නළුවන්", "සඳ මඩල චිත්රපටයේ නළුවන්"]
-
+# queries = ["දමිතා අබේරත්න රංගනය කල නාට්ය", "දමිතා අබේරත්නගේ විස්තර", "දමිතා අබේරත්නගේ වෘත්තීය දිවිය",
+#            "දමිතා අබේරත්නගේ සම්මාන", "මීහරකා චිත්රපටයේ නිළියන්", "හොඳම නිළිය සම්මානය ලබාගත් නිළියන්",
+#            "හොඳම නළුවා සම්මානය ලබාගත් නළුවන්", "සඳ මඩල චිත්රපටයේ නළුවන්"]
 
 # def query_preprocessor(selected_intent, query):
 #     actor_bio = ["විස්තර", "ජීවිතය"]
