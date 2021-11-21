@@ -93,7 +93,21 @@ def intent_classifier(query):
     else:
         selected_fields = [name, bio, career, films, awards, dob, gender, vital_status, active_years]
 
-    return selected_intent, selected_fields
+    gender_based_query = False
+    gender_query = ""
+
+    intent_dic = {
+        "actors_by_movie": "පිරිමි",
+        "actors_by_awards": "පිරිමි",
+        "actresses_by_movie": "ගැහැණු",
+        "actresses_by_awards": "ගැහැණු"
+    }
+
+    if selected_intent in intent_dic.keys():
+        gender_based_query = True
+        gender_query = intent_dic[selected_intent]
+
+    return selected_intent, selected_fields, gender_based_query, gender_query
 
 
 '''lemmatize single words'''
@@ -117,13 +131,6 @@ def query_preprocessor(selected_intent, query):
     # words to remove - කල ලබාගත් ලැබූ ලැබු
     drop_list = ["කල", "ලබාගත්", "ලැබූ", "ලැබු", "චිත්රපටයේ"]
 
-    intent_dic = {
-        "actors_by_movie": "පිරිමි",
-        "actors_by_awards": "පිරිමි",
-        "actresses_by_movie": "ගැහැණු",
-        "actresses_by_awards": "ගැහැණු"
-    }
-
     query_splitted = query.strip().split()
     remaining_words = []
 
@@ -132,9 +139,6 @@ def query_preprocessor(selected_intent, query):
             # lemmatize the word
             remaining_words.append(lemmatizer(word.strip()))
 
-    # add gender to query
-    if selected_intent in intent_dic.keys():
-        remaining_words.append(intent_dic[selected_intent])
 
     return " ".join(remaining_words)
 
@@ -142,5 +146,3 @@ def query_preprocessor(selected_intent, query):
 #            "දමිතා අබේරත්නගේ සම්මාන", "මීහරකා චිත්රපටයේ නිළියන්", "හොඳම නිළිය සම්මානය ලබාගත් නිළියන්",
 #            "හොඳම නළුවා සම්මානය ලබාගත් නළුවන්", "සඳ මඩල චිත්රපටයේ නළුවන්", "සඳ මඩල චිත්රපටයේ නළුනිළියන්"]
 #
-# for i in queries:
-#     intent_classifier(i)

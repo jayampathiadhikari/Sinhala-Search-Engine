@@ -4,20 +4,40 @@ from preprocessor import intent_classifier, query_preprocessor
 
 def search(query):
     es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
-    selected_intent, selected_fields = intent_classifier(query)
+    selected_intent, selected_fields, gender_based_query, gender_query = intent_classifier(query)
     new_query = query_preprocessor(selected_intent, query)
-    print('NEW QUERY - ', new_query)
-    results = es.search(index="index-actors", body={"query": {"multi_match": {
-        "query": new_query,
-        "type": "best_fields",
-        "fields": selected_fields,
-        "operator": 'or',
-        "fuzziness": 'AUTO'
-    }}})
-
-
-    # print('NO OF RESULTS ', len(results["hits"]["hits"]))
-    # print(filter(results["hits"]["hits"]))
+    print('NEW QUERY - ', new_query, gender_based_query, gender_query)
+    if gender_based_query:
+        results = es.search(index="index-actors", body={
+            "query": {
+                "bool": {
+                    "must": {
+                        "multi_match": {
+                            "query": new_query,
+                            "fields": selected_fields
+                        }
+                    },
+                    "filter": {
+                        "term": {
+                            "gender": gender_query
+                        }
+                    }
+                }
+            }
+        })
+    else:
+        results = es.search(index="index-actors", body={
+            "query": {
+                "bool": {
+                    "must": {
+                        "multi_match": {
+                            "query": new_query,
+                            "fields": selected_fields
+                        }
+                    }
+                }
+            }
+        })
     return filter(results["hits"]["hits"])
 
 
