@@ -30,12 +30,25 @@
             </div>
             <div id="collapse{{loop.index}}" class="collapse show" aria-labelledby="headingOne">
               <div class="card-body">
+                <h5 class="mb-2">
+                    ජන්ම දිනය
+                </h5>
+                <p>{{each["dob"]}}</p>
+
+                <h5 class="mb-2">
+                    පෞද්ගලික ජීවිතය
+                </h5>
                 <p>{{each["bio"]}}</p>
 
                 <h5 class="mb-2">
                     කලා දිවිය
                 </h5>
                 <p>{{each["career"]}}</p>
+
+                <h5 class="mb-2">
+                    ක්‍රියාකාරී කාලය
+                </h5>
+                <p>{{each["active_years"]}}</p>
 
                 <h5 class="mb-2">
                     චිත්‍රපටි
